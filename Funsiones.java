@@ -16,7 +16,7 @@ public class Funsiones {
         //(4/3)*PI*r3
         System.out.println(sphereVolumen(y));
 
-        System.out.println("PESOS A DOLARES: " + converToDolar(200, "MXM"));
+        System.out.println("PESOS A DOLARES: "+ converToDolar(200, "MXM"));
 
         
     }
